@@ -1,0 +1,9 @@
+Numpy
+Pandas
+Matplotlib.pyplot
+Seaborn
+Sklearn
+LogisticRegression
+Naive_Bayes
+Support-Vector-Machines
+K-Nearest-Neighbors
