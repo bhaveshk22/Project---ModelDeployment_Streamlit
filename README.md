@@ -4,9 +4,12 @@
 This repository contains a 'Streamlit Model Deployment' project. It showcases how to deploy a Machine Learning model using Streamlit, an open-source app framework for Machine Learning and Data Science projects. The goal of this project is to provide a practical guide for model deployment that can be easily understood and implemented.
 
 
+
 ## Screenshots
 
-src = 'https://github.com/bhaveshk22/Project---ModelDeployment_Streamlit/blob/main/app_screenshot.png?raw=true'
+
+![app_screenshot](https://github.com/bhaveshk22/Project---ModelDeployment_Streamlit/assets/141263853/1f54f921-60e5-4b40-9df7-7ed2357bd0bb)
+
 
 
 ## Roadmap
